@@ -4,6 +4,8 @@ Saya seorang **Mahasiswa S1 Teknik Informatika** di [Universitas Dian Nuswantoro
 Saya juga memiliki Sertifikat  [Belajar Fundamental Aplikasi Flutter ](https://www.dicoding.com/certificates/RVZK1MNLMPD5) dari [Dicoding](https://www.dicoding.com/).\
 Jika anda tertarik untuk berkenalan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rafiadityasenoaji/)ku ya.
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erzajuan" alt="erzajuan" /></a> </p>
+
 <p align="left">
 <a href="https://github.com/rafiaditya1">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rafiaditya1&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

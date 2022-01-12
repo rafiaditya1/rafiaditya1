@@ -1,6 +1,6 @@
 # Halo ! 
 Perkenalkan nama saya **Rafi Aditya Seno Aji**.\
-Saya seorang **Mahasiswa S1 Teknik Informatika** di [Universitas Dian Nuswantoro](https://www.dinus.ac.id/).\
+Saya seorang **Mahasiswa S1 Teknik Informatika** di [Universitas Dian Nuswantoro](https://www.dinus.ac.id/).
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiaditya1" alt="rafiaditya1" /></a> </p>

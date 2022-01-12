@@ -1,8 +1,7 @@
 # Halo ! 
 Perkenalkan nama saya **Rafi Aditya Seno Aji**.\
 Saya seorang **Mahasiswa S1 Teknik Informatika** di [Universitas Dian Nuswantoro](https://www.dinus.ac.id/).\
-Saya juga memiliki Sertifikat  [Belajar Fundamental Aplikasi Flutter ](https://www.dicoding.com/certificates/RVZK1MNLMPD5) dari [Dicoding](https://www.dicoding.com/).\
-Jika anda tertarik untuk berkenalan saya, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/rafiadityasenoaji/)ku ya.
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiaditya1" alt="rafiaditya1" /></a> </p>
 
@@ -32,5 +31,4 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/rafi_aditya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erzajuan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/rafiadityasenoaji/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="rafiadityasenoaji" height="30" width="40" /></a>
 </p>

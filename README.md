@@ -1,6 +1,6 @@
 # Halo ! 
 Perkenalkan nama saya **Rafi Aditya Seno Aji**.\
-Saya seorang **Mahasiswa S1 Teknik Informatika** di [Universitas Dian Nuswantoro](https://www.dinus.ac.id/).
+Saya seorang **Mahasiswa S1 Teknik Informatika** di [Universitas Dian Nuswantoro](https://www.dinus.ac.id/) yang memiliki minat besar pada mobile application development.
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rafiaditya1" alt="rafiaditya1" /></a> </p>
@@ -15,10 +15,8 @@ Saya seorang **Mahasiswa S1 Teknik Informatika** di [Universitas Dian Nuswantoro
 <!--
 **rafiaditya1/rafiaditya1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Kotlin & Flutter
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
@@ -30,5 +28,6 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/rafi_aditya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erzajuan" height="30" width="40" /></a>
+<a href="https://instagram.com/rafi_aditya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafiaditya1" height="30" width="40" /></a>
 </p>
+

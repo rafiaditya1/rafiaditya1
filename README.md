@@ -25,9 +25,11 @@ Saya seorang **Mahasiswa S1 Teknik Informatika** di [Universitas Dian Nuswantoro
 - ⚡ Fun fact: ...
 -->
 
+### Connect with me:
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/rafi_aditya1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rafiaditya1" height="30" width="40" /></a>
-</p>
+[<img align="left" alt="rafiaditya | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="rafiaditya | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+
+[instagram]: https://instagram.com/rafi_aditya1
+[linkedin]: https://linkedin.com/in/rafiadityasenoaji
